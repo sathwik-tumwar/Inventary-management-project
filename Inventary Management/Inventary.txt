@@ -1,0 +1,5 @@
+1,parleg,5,100
+2,good day,10,100
+3,bread,20,0
+4,milk,40,340
+5,bananas,30,50
