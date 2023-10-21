@@ -1,2 +1,3 @@
 # Inventary-management-System using files and JSON
-This project is about Amount Billing in shops.
+This project is about Inventary Management in Retail stores.
+
